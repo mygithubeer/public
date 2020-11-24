@@ -1,5 +1,5 @@
 # .nfo
-Contact .nfo
+Contact info
 
 Public PGP key: https://github.com/mygithubeer/public/blob/main/public_PGP_key
 
